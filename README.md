@@ -1,2 +1,3 @@
-# Exerc-cios-python
-Exercícios de estudo sobre meu curso de python 
+# Lista de Exercícios de python  
+Aqui eu deixo os meus exercícios que realizo durante o meu curso de python 
+Deixo também exercícios que treino fora do curso 
